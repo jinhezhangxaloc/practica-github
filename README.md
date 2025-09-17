@@ -1,2 +1,2 @@
 # practica-github
-practica de github
+este es mi primer poryecto en github
