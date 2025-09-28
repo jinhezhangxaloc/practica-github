@@ -1,3 +1,3 @@
 # practica-github
-este es mi primer poryecto en github
+estos es mis primeros poryectos en github
 Autor: Jinhe Zhang
